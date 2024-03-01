@@ -1,4 +1,7 @@
-aaaaaaaaaaaaaaa<<<<<<< HEAD
+aaaaaaaaaaaaaa
+colunma-rows:
+
+a<<<<<<< HEAD
 <<<<<<< HEAD
 class factorial  
 {  
