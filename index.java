@@ -1,3 +1,4 @@
+aaaaaaaaaaaaaaa<<<<<<< HEAD
 <<<<<<< HEAD
 class factorial  
 {  
@@ -22,6 +23,11 @@ The code snippet for the above code is shown below:
 dkffjsl
 =======
 class factorial  dsfdfgdg
+||||||| c3f963c
+class factorial  dsfdfgdg
+=======
+commited by dev 5
+>>>>>>> origin/master
 {  
 static int factorialexm(int num){  
 if(num==0)  
